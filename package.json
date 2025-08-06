@@ -1,8 +1,8 @@
 {
   "name": "dailyhot",
   "description": "今日热榜",
-  "author": "imsyy",
-  "github": "https://github.com/imsyy",
+  "author": "shellming",
+  "github": "https://github.com/ming4J",
   "version": "1.2.0",
   "private": true,
   "scripts": {
